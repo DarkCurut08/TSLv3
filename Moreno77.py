@@ -40,6 +40,6 @@ def regis():
 			os.system('print "'+users+'" > 2;print "'+passd+'" >> 2')
 			os.system('print "cd TSLv3" > 4;print "python login.py" >> 4;')
 			os.system('cat 1 > login.py;cat 2 >> login.py;cat 3 >> login.py;python login.py')
-			os.system('cat 4 > 5;cat $HOME/.bashrc >> 5;mv 5 $HOME/.bashrc;rm -f 2;rm -f 4')
+			os.system('cat 4 > 5;cat $HOME/.bashrc >> 5;mv 5 $HOME/.bashrc;rm -f 2;rm -f 4;cd $HOME')
 
 regis()
