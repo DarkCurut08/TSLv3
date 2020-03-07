@@ -2,10 +2,10 @@
 ```
 $ pkg update && upgrade
 $ pkg install git
-$ git clone https://github.com/DarkCurut08/Spam77
-$ cd Spam77
+$ git clone https://github.com/DarkCurut08/TSLv3
+$ cd TSLv3
 $ sh install.sh
-$ sh Moreno77.sh
+$ python2 Moreno77.py
 ```
 # Contact
 ```
